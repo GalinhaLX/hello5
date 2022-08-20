@@ -13,5 +13,5 @@
 	"back_gradient_hint": 50,
 	"back_grad_animate": false,
 	"back_has_image": true,
-	"imageBackgroundSource": "https://source.unsplash.com/1920x1200/?[if(settings.hasKeyword,'car','cat']&pic=0"
+	"imageBackgroundSource": "https://cdn.jsdelivr.net/gh/GalinhaLX/hello5@4e1fce420e991ebf2234bd6e905bcadfd63b9bd5/images/avatar.png"
 }
