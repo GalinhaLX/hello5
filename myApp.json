@@ -10,8 +10,8 @@
 	"back_color2": "#bfbc39",
 	"temp_size": 90,
 	"temp_direction": "to top right",
-	"back_gradient_hint": 33,
-	"back_grad_animate": false,
+	"back_gradient_hint": 64,
+	"back_grad_animate": true,
 	"back_has_image": true,
 	"imageBackgroundSource": "https://cdn.jsdelivr.net/gh/GalinhaLX/hello5@f9f8ba136a7c7abd9a7f52026b308ce296628ad5/images/TopClip-Cardboard-Can-Topper-Multipack-Bundle.jpg",
 	"avatar": "https://i.imgur.com/LPeWcag.png"
