@@ -1,11 +1,11 @@
 {
-	"drawer_tab": "preset",
+	"drawer_tab": "color",
 	"hue": 180,
 	"saturation": 75,
 	"lightness": 55,
 	"alpha": 1,
 	"back_has_color": true,
-	"back_color1": "#00000000",
+	"back_color1": "#ff3e68",
 	"back_has_gradient": false,
 	"back_color2": "#2ebf91",
 	"temp_size": 90,
