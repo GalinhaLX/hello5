@@ -1,5 +1,5 @@
 {
-	"drawer_tab": "media",
+	"drawer_tab": "preset",
 	"hue": 180,
 	"saturation": 75,
 	"lightness": 55,
@@ -13,5 +13,6 @@
 	"back_gradient_hint": 50,
 	"back_grad_animate": false,
 	"back_has_image": true,
-	"imageBackgroundSource": "https://cdn.jsdelivr.net/gh/GalinhaLX/hello5@f9f8ba136a7c7abd9a7f52026b308ce296628ad5/images/TopClip-Cardboard-Can-Topper-Multipack-Bundle.jpg"
+	"imageBackgroundSource": "https://cdn.jsdelivr.net/gh/GalinhaLX/hello5@f9f8ba136a7c7abd9a7f52026b308ce296628ad5/images/TopClip-Cardboard-Can-Topper-Multipack-Bundle.jpg",
+	"avatar": "https://i.imgur.com/LPeWcag.png"
 }
