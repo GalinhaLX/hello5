@@ -1,10 +1,10 @@
 {
-	"drawer_tab": "color",
-	"hue": 180,
+	"drawer_tab": "preset",
+	"hue": 205,
 	"saturation": 75,
 	"lightness": 55,
 	"alpha": 1,
-	"back_has_color": true,
+	"back_has_color": false,
 	"back_color1": "#74a0d7",
 	"back_has_gradient": true,
 	"back_color2": "#bfbc39",
