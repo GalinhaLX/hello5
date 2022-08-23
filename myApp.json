@@ -1,15 +1,12 @@
 {
-	"drawer_tab": "general",
+	"drawer_tab": "color",
 	"hue": 205,
 	"saturation": 75,
 	"lightness": 55,
 	"alpha": 1,
-	"back_has_color": [
-		false,
-		true
-	],
-	"back_color1": "#8edefb",
-	"back_has_gradient": false,
+	"back_has_color": true,
+	"back_color1": "#45de82",
+	"back_has_gradient": true,
 	"back_color2": "#bfbc39",
 	"temp_size": 90,
 	"temp_direction": "to top right",
