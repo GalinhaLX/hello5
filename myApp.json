@@ -1,9 +1,9 @@
 {
-	"drawer_tab": "preset",
-	"hue": 164,
-	"saturation": 89,
+	"drawer_tab": "general",
+	"hue": 205,
+	"saturation": 75,
 	"lightness": 55,
-	"alpha": 1,
+	"alpha": 0.74,
 	"back_has_color": true,
 	"back_color1": "#d7d7d9",
 	"back_has_gradient": true,
