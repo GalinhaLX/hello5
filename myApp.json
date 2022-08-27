@@ -6,7 +6,7 @@
 	"alpha": 1,
 	"back_has_color": true,
 	"back_color1": "#ffbd77",
-	"back_has_gradient": false,
+	"back_has_gradient": true,
 	"back_color2": "#3663bf",
 	"temp_size": 90,
 	"temp_direction": "to top right",
